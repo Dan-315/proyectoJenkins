@@ -3,5 +3,7 @@ const users=[
     {nombre:"David",apellido:"Ulloa"},
     {nombre:"Eduardo",apellido:"Perez"},
     {nombre:"Paco",apellido:"Fernandez"},
+    {nombre:"Eduardo",apellido:"Perez"},
+    {nombre:"Paco",apellido:"Fernandez"},
 ]
 module.exports = users;
